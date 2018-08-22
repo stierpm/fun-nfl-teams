@@ -1,0 +1,41 @@
+body {
+  background: #444;
+}
+
+header {
+  padding: 20px 0;
+  background: #444;
+  text-align: center;
+}
+
+header h1 {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #FFF;
+}
+
+#main-section {
+  padding: 50px 0;
+  background: #EEE;
+}
+
+.team-box {
+  padding: 1rem 15px;
+  background: #FFF;
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.13);
+  text-align: center;
+}
+
+.team-box .team-city,
+.team-box .team-state {
+  display: inline-block;
+  margin: 0 5px;
+  font-size: 0.825rem;
+  color: #CCC;
+}
+
+footer {
+  padding: 50px 0;
+  text-align: center;
+  color: #FFF;
+}
