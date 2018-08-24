@@ -1,0 +1,26 @@
+[
+  {
+    "logo": "http://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ari.png&h=150&w=150",
+    "teamname": "Arizona Cardinals",
+    "city": "Phoenix",
+    "state": "Arizona"
+  },
+  {
+    "logo": "http://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/atl.png&h=150&w=150",
+    "teamname": "Atlanta Falcons",
+    "city": "Atlanta",
+    "state": "Georgia"
+  },
+  {
+    "logo": "http://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/bal.png&h=150&w=150",
+    "teamname": "Baltimore Ravens",
+    "city": "Baltimore",
+    "state": "Maryland"
+  },
+  {
+    "logo": "http://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/buf.png&h=150&w=150",
+    "teamname": "Buffalo Bills",
+    "city": "Buffalo",
+    "state": "New York"
+  }
+]
